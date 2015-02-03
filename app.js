@@ -15,7 +15,7 @@ require([ 'jquery', 'customDash-js/read-csv', 'mithril' ],
 	function ( $, csv, mithril ) {
 	
 	jQuery(document).ready(function(){
-		m.render(document.getElementById("outputTable"), m(".container"));
+		//m.render(document.getElementById("outputTable"), m(".container"));
 		console.log('jQuery version: *-------------------------*'); // 1.9.0
 	});
 	
