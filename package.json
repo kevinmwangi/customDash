@@ -1,0 +1,33 @@
+{
+  "name": "custom-Dash",
+  "version": "0.0.0",
+  "description": "my custom dashboard app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinmwangi/customDash.git"
+  },
+  "keywords": [
+    "customDash"
+  ],
+  "author": "Kevin Wachira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinmwangi/customDash/issues"
+  },
+  "homepage": "https://github.com/kevinmwangi/customDash",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-modernizr": "^0.6.0",
+    "grunt-wiredep": "^2.0.0",
+    "longjohn": "^0.2.4"
+  },
+  "dependencies": {
+    "bower": "^1.3.12"
+  }
+}
